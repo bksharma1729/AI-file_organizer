@@ -15,7 +15,7 @@ Efficient File Management: Moves files to structured directories for better orga
 Cross-Platform Compatibility: Works on Windows, macOS, and Linux.
 Technology Stack
 
-Programming Language:
+*******Programming Language:
 
 Python
 
@@ -27,7 +27,7 @@ Regex (re) - Helps in pattern matching for file classification.
 
 Logging - Enables debugging and error tracking.
 
-Usage
+******Usage
 
 Ensure the file_organizer.py script is in the directory containing the files to be sorted.
 
