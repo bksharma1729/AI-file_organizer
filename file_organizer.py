@@ -12,7 +12,7 @@ FILE_CATEGORIES = {
     "Code Files": [".py", ".js", ".html", ".css"],
 }
 
-# Themes for UI customization
+# Themes for UI customization *****
 THEMES = {
     "dark": {"bg": "#2B2D42", "fg": "#EDF2F4", "btn_bg": "#8D99AE", "btn_fg": "#2B2D42"},
     "light": {"bg": "#F7F7F7", "fg": "#2B2D42", "btn_bg": "#4CAF50", "btn_fg": "#FFFFFF"},
